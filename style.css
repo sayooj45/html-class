@@ -1,0 +1,33 @@
+h1{
+    
+    color: aqua;
+    margin: 50px;
+    border: 3px solid black;
+    padding:20px; 
+    text-align: center;
+    width: 200px;
+    background-color: chocolate;
+    font-size: 80px;
+}
+
+.name{
+
+    color: blue;
+    margin: 50px;
+    border: 3px solid black;
+    padding:20px; 
+    text-align: center;
+    width: 100px;
+    background-color: rgb(140, 140, 34);
+}
+
+#id{
+   
+    color: chartreuse;
+    margin: 50px;
+    border: 3px solid black;
+    padding:20px; 
+    text-align: center;
+    width: 100px;
+    background-color: rgb(34, 140, 64)
+}
